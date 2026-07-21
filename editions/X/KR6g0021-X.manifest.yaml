@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6g0021_000-X.yaml, hash: 'sha256:bf292391ba2963d1cffd36c241708e2fff79492c45f697d4522218cf9f584ca1'}
+  - {seq: 0, filename: KR6g0021_000-X.yaml, hash: 'sha256:7c605875ee2fe0c883c15287c7ba9b7b6a3530bbb510bdfaec602325c3e4f8d8'}
   - {seq: 1, filename: KR6g0021_001-X.yaml, hash: 'sha256:9263ad63ca517ab058508dd259f69547a9c9575ab40e43c7a76bd099db56a26d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0021_000-X.markers.yaml, hash: 'sha256:de29641d8fe7b64ade1d460c8c82de2e81a6c64dec0cfdcaafb19a4a1991b166'}
+  - {seq: 0, role: markers, filename: assets/KR6g0021_000-X.markers.yaml, hash: 'sha256:d07437416371b113ab9ba61f2177114bb550cd8fc0825507612fe7be585b3840'}
   - {seq: 1, role: markers, filename: assets/KR6g0021_001-X.markers.yaml, hash: 'sha256:68a37b3c89f6a28bdc2cdf7bd3c53fdb86465bcd6e94cf2130a0550b873d6eb1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6g0021_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 664-A 南本大般涅槃經會疏敘
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0021_X_000-mulu-2
     span:
-    - front
+    - body
     - 417
     - 417
   label: 南本大般涅槃經五分圖　品題總目
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0021_X_000-mulu-3
     span:
-    - front
+    - body
     - 782
     - 782
   label: 南本大般涅槃經會疏解
@@ -105,4 +105,4 @@ table_of_contents:
   label: No. 664-E
   type: mulu
   level: 1
-hash: sha256:a2720d5c5c430b562bec50160ea60f5320666224f7248396dd69d171cefc7a00
+hash: sha256:810ed38eb246e33b1a63dd9d3fe0215965d2a330f4c4e0e4043d6c22bcf148f5
